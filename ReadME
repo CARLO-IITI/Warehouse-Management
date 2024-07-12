@@ -1,1 +1,13 @@
-Read Me
+Problem Statement
+
+You are given a fulfilment centre(aka FC), where inventory is maintained on the racks and shelves for 1Lakh items of varying sizes and weights. Each facility is categorised into multiple zones, and each zone can be mapped to few tags. Likewise, each item that is kept in the inventory can be tagged.
+
+We have to arrange the items on the shelves such that the items which are generally bought together  by customers (i.e. bread with butter) should be kept together adjoining to each other. The items which are tagged with special flags, like Inflamable, chemical, Grocery should only be kept in the zones which has the similar tags.
+
+The fast moving items (Items which are ordered more by customers) should be placed closer to the picking areas, so that the associate doesn’t have to walk a lot to pick them.
+
+You should also take care that the total weight of the rack or shelf is not breached.
+
+You can have many kinds of racks or shelves in the centre, each of which can tolerate different weights and can accept different dimensions of items.
+
+You can think around using a K-nearest Neighbours or other such algorithms to find a suitable slot on the racks or shelves for any item what is coming to the fulfilment centre.
