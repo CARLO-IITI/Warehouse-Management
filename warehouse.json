@@ -1,0 +1,1871 @@
+{
+    "zones": {
+      "Zone 1": {
+        "racks": [
+          {
+            "rack_id": "Rack 1",
+            "slots": [
+              {
+                "slot_id": "Slot 1",
+                "max_weight": 813,
+                "dimensions": [
+                  80,
+                  52,
+                  75
+                ]
+              },
+              {
+                "slot_id": "Slot 2",
+                "max_weight": 2872,
+                "dimensions": [
+                  39,
+                  64,
+                  31
+                ]
+              }
+            ],
+            "near_picking_zone": true,
+            "near_packing_machine": false,
+            "near_outbound_gate": true
+          },
+          {
+            "rack_id": "Rack 2",
+            "slots": [
+              {
+                "slot_id": "Slot 1",
+                "max_weight": 2555,
+                "dimensions": [
+                  31,
+                  59,
+                  33
+                ]
+              },
+              {
+                "slot_id": "Slot 2",
+                "max_weight": 1861,
+                "dimensions": [
+                  62,
+                  70,
+                  32
+                ]
+              }
+            ],
+            "near_picking_zone": false,
+            "near_packing_machine": false,
+            "near_outbound_gate": false
+          },
+          {
+            "rack_id": "Rack 3",
+            "slots": [
+              {
+                "slot_id": "Slot 1",
+                "max_weight": 1276,
+                "dimensions": [
+                  61,
+                  55,
+                  74
+                ]
+              },
+              {
+                "slot_id": "Slot 2",
+                "max_weight": 1422,
+                "dimensions": [
+                  54,
+                  79,
+                  42
+                ]
+              },
+              {
+                "slot_id": "Slot 3",
+                "max_weight": 681,
+                "dimensions": [
+                  37,
+                  69,
+                  76
+                ]
+              }
+            ],
+            "near_picking_zone": false,
+            "near_packing_machine": false,
+            "near_outbound_gate": true
+          },
+          {
+            "rack_id": "Rack 4",
+            "slots": [
+              {
+                "slot_id": "Slot 1",
+                "max_weight": 1990,
+                "dimensions": [
+                  31,
+                  58,
+                  52
+                ]
+              },
+              {
+                "slot_id": "Slot 2",
+                "max_weight": 787,
+                "dimensions": [
+                  75,
+                  31,
+                  41
+                ]
+              }
+            ],
+            "near_picking_zone": false,
+            "near_packing_machine": true,
+            "near_outbound_gate": false
+          }
+        ]
+      },
+      "Zone 2": {
+        "racks": [
+          {
+            "rack_id": "Rack 1",
+            "slots": [
+              {
+                "slot_id": "Slot 1",
+                "max_weight": 815,
+                "dimensions": [
+                  68,
+                  46,
+                  67
+                ]
+              },
+              {
+                "slot_id": "Slot 2",
+                "max_weight": 2860,
+                "dimensions": [
+                  68,
+                  60,
+                  47
+                ]
+              },
+              {
+                "slot_id": "Slot 3",
+                "max_weight": 1755,
+                "dimensions": [
+                  48,
+                  79,
+                  61
+                ]
+              }
+            ],
+            "near_picking_zone": true,
+            "near_packing_machine": false,
+            "near_outbound_gate": false
+          },
+          {
+            "rack_id": "Rack 2",
+            "slots": [
+              {
+                "slot_id": "Slot 1",
+                "max_weight": 1990,
+                "dimensions": [
+                  69,
+                  41,
+                  72
+                ]
+              },
+              {
+                "slot_id": "Slot 2",
+                "max_weight": 1339,
+                "dimensions": [
+                  57,
+                  38,
+                  47
+                ]
+              },
+              {
+                "slot_id": "Slot 3",
+                "max_weight": 2212,
+                "dimensions": [
+                  42,
+                  58,
+                  49
+                ]
+              }
+            ],
+            "near_picking_zone": false,
+            "near_packing_machine": false,
+            "near_outbound_gate": false
+          }
+        ]
+      },
+      "Zone 3": {
+        "racks": [
+          {
+            "rack_id": "Rack 1",
+            "slots": [
+              {
+                "slot_id": "Slot 1",
+                "max_weight": 2536,
+                "dimensions": [
+                  30,
+                  61,
+                  77
+                ]
+              },
+              {
+                "slot_id": "Slot 2",
+                "max_weight": 1043,
+                "dimensions": [
+                  43,
+                  49,
+                  61
+                ]
+              }
+            ],
+            "near_picking_zone": true,
+            "near_packing_machine": true,
+            "near_outbound_gate": false
+          },
+          {
+            "rack_id": "Rack 2",
+            "slots": [
+              {
+                "slot_id": "Slot 1",
+                "max_weight": 1874,
+                "dimensions": [
+                  66,
+                  76,
+                  78
+                ]
+              },
+              {
+                "slot_id": "Slot 2",
+                "max_weight": 1897,
+                "dimensions": [
+                  40,
+                  37,
+                  56
+                ]
+              },
+              {
+                "slot_id": "Slot 3",
+                "max_weight": 2818,
+                "dimensions": [
+                  31,
+                  80,
+                  46
+                ]
+              }
+            ],
+            "near_picking_zone": false,
+            "near_packing_machine": false,
+            "near_outbound_gate": false
+          },
+          {
+            "rack_id": "Rack 3",
+            "slots": [
+              {
+                "slot_id": "Slot 1",
+                "max_weight": 1967,
+                "dimensions": [
+                  73,
+                  50,
+                  56
+                ]
+              },
+              {
+                "slot_id": "Slot 2",
+                "max_weight": 328,
+                "dimensions": [
+                  79,
+                  72,
+                  78
+                ]
+              }
+            ],
+            "near_picking_zone": true,
+            "near_packing_machine": true,
+            "near_outbound_gate": true
+          }
+        ]
+      },
+      "Zone 4": {
+        "racks": [
+          {
+            "rack_id": "Rack 1",
+            "slots": [
+              {
+                "slot_id": "Slot 1",
+                "max_weight": 1048,
+                "dimensions": [
+                  77,
+                  31,
+                  56
+                ]
+              },
+              {
+                "slot_id": "Slot 2",
+                "max_weight": 1263,
+                "dimensions": [
+                  40,
+                  50,
+                  49
+                ]
+              }
+            ],
+            "near_picking_zone": false,
+            "near_packing_machine": true,
+            "near_outbound_gate": true
+          },
+          {
+            "rack_id": "Rack 2",
+            "slots": [
+              {
+                "slot_id": "Slot 1",
+                "max_weight": 1076,
+                "dimensions": [
+                  41,
+                  68,
+                  65
+                ]
+              },
+              {
+                "slot_id": "Slot 2",
+                "max_weight": 2665,
+                "dimensions": [
+                  37,
+                  60,
+                  52
+                ]
+              }
+            ],
+            "near_picking_zone": false,
+            "near_packing_machine": true,
+            "near_outbound_gate": true
+          },
+          {
+            "rack_id": "Rack 3",
+            "slots": [
+              {
+                "slot_id": "Slot 1",
+                "max_weight": 1051,
+                "dimensions": [
+                  34,
+                  64,
+                  32
+                ]
+              },
+              {
+                "slot_id": "Slot 2",
+                "max_weight": 961,
+                "dimensions": [
+                  53,
+                  40,
+                  49
+                ]
+              },
+              {
+                "slot_id": "Slot 3",
+                "max_weight": 2944,
+                "dimensions": [
+                  67,
+                  70,
+                  37
+                ]
+              }
+            ],
+            "near_picking_zone": false,
+            "near_packing_machine": true,
+            "near_outbound_gate": true
+          },
+          {
+            "rack_id": "Rack 4",
+            "slots": [
+              {
+                "slot_id": "Slot 1",
+                "max_weight": 1558,
+                "dimensions": [
+                  34,
+                  57,
+                  53
+                ]
+              },
+              {
+                "slot_id": "Slot 2",
+                "max_weight": 2729,
+                "dimensions": [
+                  69,
+                  80,
+                  39
+                ]
+              },
+              {
+                "slot_id": "Slot 3",
+                "max_weight": 1103,
+                "dimensions": [
+                  37,
+                  36,
+                  30
+                ]
+              }
+            ],
+            "near_picking_zone": false,
+            "near_packing_machine": false,
+            "near_outbound_gate": true
+          }
+        ]
+      },
+      "Zone 5": {
+        "racks": [
+          {
+            "rack_id": "Rack 1",
+            "slots": [
+              {
+                "slot_id": "Slot 1",
+                "max_weight": 2702,
+                "dimensions": [
+                  68,
+                  68,
+                  62
+                ]
+              },
+              {
+                "slot_id": "Slot 2",
+                "max_weight": 2783,
+                "dimensions": [
+                  56,
+                  57,
+                  38
+                ]
+              },
+              {
+                "slot_id": "Slot 3",
+                "max_weight": 436,
+                "dimensions": [
+                  52,
+                  31,
+                  48
+                ]
+              }
+            ],
+            "near_picking_zone": false,
+            "near_packing_machine": false,
+            "near_outbound_gate": true
+          },
+          {
+            "rack_id": "Rack 2",
+            "slots": [
+              {
+                "slot_id": "Slot 1",
+                "max_weight": 2232,
+                "dimensions": [
+                  69,
+                  32,
+                  48
+                ]
+              },
+              {
+                "slot_id": "Slot 2",
+                "max_weight": 1489,
+                "dimensions": [
+                  44,
+                  44,
+                  57
+                ]
+              }
+            ],
+            "near_picking_zone": false,
+            "near_packing_machine": true,
+            "near_outbound_gate": true
+          }
+        ]
+      },
+      "Zone 6": {
+        "racks": [
+          {
+            "rack_id": "Rack 1",
+            "slots": [
+              {
+                "slot_id": "Slot 1",
+                "max_weight": 1294,
+                "dimensions": [
+                  56,
+                  73,
+                  32
+                ]
+              },
+              {
+                "slot_id": "Slot 2",
+                "max_weight": 1974,
+                "dimensions": [
+                  50,
+                  35,
+                  31
+                ]
+              },
+              {
+                "slot_id": "Slot 3",
+                "max_weight": 385,
+                "dimensions": [
+                  61,
+                  44,
+                  60
+                ]
+              }
+            ],
+            "near_picking_zone": false,
+            "near_packing_machine": true,
+            "near_outbound_gate": false
+          },
+          {
+            "rack_id": "Rack 2",
+            "slots": [
+              {
+                "slot_id": "Slot 1",
+                "max_weight": 532,
+                "dimensions": [
+                  30,
+                  60,
+                  61
+                ]
+              },
+              {
+                "slot_id": "Slot 2",
+                "max_weight": 2253,
+                "dimensions": [
+                  46,
+                  58,
+                  73
+                ]
+              }
+            ],
+            "near_picking_zone": false,
+            "near_packing_machine": false,
+            "near_outbound_gate": false
+          },
+          {
+            "rack_id": "Rack 3",
+            "slots": [
+              {
+                "slot_id": "Slot 1",
+                "max_weight": 1987,
+                "dimensions": [
+                  50,
+                  73,
+                  70
+                ]
+              },
+              {
+                "slot_id": "Slot 2",
+                "max_weight": 623,
+                "dimensions": [
+                  50,
+                  68,
+                  79
+                ]
+              },
+              {
+                "slot_id": "Slot 3",
+                "max_weight": 2947,
+                "dimensions": [
+                  56,
+                  46,
+                  32
+                ]
+              }
+            ],
+            "near_picking_zone": true,
+            "near_packing_machine": false,
+            "near_outbound_gate": true
+          }
+        ]
+      },
+      "Zone 7": {
+        "racks": [
+          {
+            "rack_id": "Rack 1",
+            "slots": [
+              {
+                "slot_id": "Slot 1",
+                "max_weight": 2808,
+                "dimensions": [
+                  68,
+                  35,
+                  34
+                ]
+              },
+              {
+                "slot_id": "Slot 2",
+                "max_weight": 1178,
+                "dimensions": [
+                  74,
+                  57,
+                  67
+                ]
+              }
+            ],
+            "near_picking_zone": false,
+            "near_packing_machine": true,
+            "near_outbound_gate": false
+          },
+          {
+            "rack_id": "Rack 2",
+            "slots": [
+              {
+                "slot_id": "Slot 1",
+                "max_weight": 1992,
+                "dimensions": [
+                  56,
+                  78,
+                  55
+                ]
+              },
+              {
+                "slot_id": "Slot 2",
+                "max_weight": 1402,
+                "dimensions": [
+                  49,
+                  40,
+                  63
+                ]
+              },
+              {
+                "slot_id": "Slot 3",
+                "max_weight": 900,
+                "dimensions": [
+                  72,
+                  73,
+                  72
+                ]
+              }
+            ],
+            "near_picking_zone": false,
+            "near_packing_machine": false,
+            "near_outbound_gate": true
+          },
+          {
+            "rack_id": "Rack 3",
+            "slots": [
+              {
+                "slot_id": "Slot 1",
+                "max_weight": 1915,
+                "dimensions": [
+                  52,
+                  39,
+                  48
+                ]
+              },
+              {
+                "slot_id": "Slot 2",
+                "max_weight": 1636,
+                "dimensions": [
+                  63,
+                  46,
+                  31
+                ]
+              },
+              {
+                "slot_id": "Slot 3",
+                "max_weight": 2282,
+                "dimensions": [
+                  33,
+                  36,
+                  79
+                ]
+              }
+            ],
+            "near_picking_zone": false,
+            "near_packing_machine": true,
+            "near_outbound_gate": false
+          }
+        ]
+      },
+      "Zone 8": {
+        "racks": [
+          {
+            "rack_id": "Rack 1",
+            "slots": [
+              {
+                "slot_id": "Slot 1",
+                "max_weight": 2303,
+                "dimensions": [
+                  72,
+                  71,
+                  31
+                ]
+              },
+              {
+                "slot_id": "Slot 2",
+                "max_weight": 1067,
+                "dimensions": [
+                  62,
+                  41,
+                  40
+                ]
+              },
+              {
+                "slot_id": "Slot 3",
+                "max_weight": 848,
+                "dimensions": [
+                  59,
+                  30,
+                  57
+                ]
+              }
+            ],
+            "near_picking_zone": true,
+            "near_packing_machine": true,
+            "near_outbound_gate": true
+          },
+          {
+            "rack_id": "Rack 2",
+            "slots": [
+              {
+                "slot_id": "Slot 1",
+                "max_weight": 1803,
+                "dimensions": [
+                  48,
+                  53,
+                  68
+                ]
+              },
+              {
+                "slot_id": "Slot 2",
+                "max_weight": 2051,
+                "dimensions": [
+                  58,
+                  57,
+                  40
+                ]
+              },
+              {
+                "slot_id": "Slot 3",
+                "max_weight": 636,
+                "dimensions": [
+                  52,
+                  53,
+                  65
+                ]
+              }
+            ],
+            "near_picking_zone": false,
+            "near_packing_machine": false,
+            "near_outbound_gate": false
+          },
+          {
+            "rack_id": "Rack 3",
+            "slots": [
+              {
+                "slot_id": "Slot 1",
+                "max_weight": 314,
+                "dimensions": [
+                  42,
+                  62,
+                  49
+                ]
+              },
+              {
+                "slot_id": "Slot 2",
+                "max_weight": 452,
+                "dimensions": [
+                  59,
+                  79,
+                  41
+                ]
+              }
+            ],
+            "near_picking_zone": false,
+            "near_packing_machine": false,
+            "near_outbound_gate": true
+          }
+        ]
+      },
+      "Zone 9": {
+        "racks": [
+          {
+            "rack_id": "Rack 1",
+            "slots": [
+              {
+                "slot_id": "Slot 1",
+                "max_weight": 2450,
+                "dimensions": [
+                  52,
+                  75,
+                  33
+                ]
+              },
+              {
+                "slot_id": "Slot 2",
+                "max_weight": 952,
+                "dimensions": [
+                  65,
+                  63,
+                  71
+                ]
+              }
+            ],
+            "near_picking_zone": true,
+            "near_packing_machine": true,
+            "near_outbound_gate": true
+          },
+          {
+            "rack_id": "Rack 2",
+            "slots": [
+              {
+                "slot_id": "Slot 1",
+                "max_weight": 314,
+                "dimensions": [
+                  45,
+                  37,
+                  30
+                ]
+              },
+              {
+                "slot_id": "Slot 2",
+                "max_weight": 972,
+                "dimensions": [
+                  77,
+                  49,
+                  39
+                ]
+              },
+              {
+                "slot_id": "Slot 3",
+                "max_weight": 2895,
+                "dimensions": [
+                  43,
+                  52,
+                  32
+                ]
+              }
+            ],
+            "near_picking_zone": true,
+            "near_packing_machine": false,
+            "near_outbound_gate": false
+          },
+          {
+            "rack_id": "Rack 3",
+            "slots": [
+              {
+                "slot_id": "Slot 1",
+                "max_weight": 2818,
+                "dimensions": [
+                  63,
+                  55,
+                  46
+                ]
+              },
+              {
+                "slot_id": "Slot 2",
+                "max_weight": 2128,
+                "dimensions": [
+                  75,
+                  41,
+                  72
+                ]
+              },
+              {
+                "slot_id": "Slot 3",
+                "max_weight": 1418,
+                "dimensions": [
+                  46,
+                  64,
+                  62
+                ]
+              }
+            ],
+            "near_picking_zone": true,
+            "near_packing_machine": false,
+            "near_outbound_gate": true
+          }
+        ]
+      },
+      "Zone 10": {
+        "racks": [
+          {
+            "rack_id": "Rack 1",
+            "slots": [
+              {
+                "slot_id": "Slot 1",
+                "max_weight": 2122,
+                "dimensions": [
+                  50,
+                  39,
+                  41
+                ]
+              },
+              {
+                "slot_id": "Slot 2",
+                "max_weight": 582,
+                "dimensions": [
+                  59,
+                  79,
+                  51
+                ]
+              },
+              {
+                "slot_id": "Slot 3",
+                "max_weight": 467,
+                "dimensions": [
+                  78,
+                  63,
+                  68
+                ]
+              }
+            ],
+            "near_picking_zone": true,
+            "near_packing_machine": false,
+            "near_outbound_gate": true
+          },
+          {
+            "rack_id": "Rack 2",
+            "slots": [
+              {
+                "slot_id": "Slot 1",
+                "max_weight": 2599,
+                "dimensions": [
+                  40,
+                  46,
+                  34
+                ]
+              },
+              {
+                "slot_id": "Slot 2",
+                "max_weight": 2248,
+                "dimensions": [
+                  46,
+                  46,
+                  74
+                ]
+              }
+            ],
+            "near_picking_zone": false,
+            "near_packing_machine": false,
+            "near_outbound_gate": true
+          },
+          {
+            "rack_id": "Rack 3",
+            "slots": [
+              {
+                "slot_id": "Slot 1",
+                "max_weight": 2849,
+                "dimensions": [
+                  76,
+                  38,
+                  41
+                ]
+              },
+              {
+                "slot_id": "Slot 2",
+                "max_weight": 2026,
+                "dimensions": [
+                  49,
+                  64,
+                  59
+                ]
+              }
+            ],
+            "near_picking_zone": true,
+            "near_packing_machine": false,
+            "near_outbound_gate": false
+          }
+        ]
+      },
+      "Zone 11": {
+        "racks": [
+          {
+            "rack_id": "Rack 1",
+            "slots": [
+              {
+                "slot_id": "Slot 1",
+                "max_weight": 2079,
+                "dimensions": [
+                  47,
+                  71,
+                  56
+                ]
+              },
+              {
+                "slot_id": "Slot 2",
+                "max_weight": 487,
+                "dimensions": [
+                  75,
+                  63,
+                  53
+                ]
+              }
+            ],
+            "near_picking_zone": false,
+            "near_packing_machine": true,
+            "near_outbound_gate": true
+          },
+          {
+            "rack_id": "Rack 2",
+            "slots": [
+              {
+                "slot_id": "Slot 1",
+                "max_weight": 2480,
+                "dimensions": [
+                  77,
+                  78,
+                  34
+                ]
+              },
+              {
+                "slot_id": "Slot 2",
+                "max_weight": 938,
+                "dimensions": [
+                  31,
+                  74,
+                  56
+                ]
+              }
+            ],
+            "near_picking_zone": false,
+            "near_packing_machine": true,
+            "near_outbound_gate": true
+          },
+          {
+            "rack_id": "Rack 3",
+            "slots": [
+              {
+                "slot_id": "Slot 1",
+                "max_weight": 2648,
+                "dimensions": [
+                  66,
+                  61,
+                  50
+                ]
+              },
+              {
+                "slot_id": "Slot 2",
+                "max_weight": 969,
+                "dimensions": [
+                  57,
+                  80,
+                  60
+                ]
+              }
+            ],
+            "near_picking_zone": true,
+            "near_packing_machine": false,
+            "near_outbound_gate": true
+          },
+          {
+            "rack_id": "Rack 4",
+            "slots": [
+              {
+                "slot_id": "Slot 1",
+                "max_weight": 2988,
+                "dimensions": [
+                  39,
+                  55,
+                  39
+                ]
+              },
+              {
+                "slot_id": "Slot 2",
+                "max_weight": 1152,
+                "dimensions": [
+                  57,
+                  60,
+                  37
+                ]
+              }
+            ],
+            "near_picking_zone": false,
+            "near_packing_machine": true,
+            "near_outbound_gate": false
+          }
+        ]
+      },
+      "Zone 12": {
+        "racks": [
+          {
+            "rack_id": "Rack 1",
+            "slots": [
+              {
+                "slot_id": "Slot 1",
+                "max_weight": 1376,
+                "dimensions": [
+                  76,
+                  78,
+                  37
+                ]
+              },
+              {
+                "slot_id": "Slot 2",
+                "max_weight": 1893,
+                "dimensions": [
+                  52,
+                  74,
+                  32
+                ]
+              },
+              {
+                "slot_id": "Slot 3",
+                "max_weight": 1665,
+                "dimensions": [
+                  33,
+                  30,
+                  71
+                ]
+              }
+            ],
+            "near_picking_zone": false,
+            "near_packing_machine": false,
+            "near_outbound_gate": true
+          },
+          {
+            "rack_id": "Rack 2",
+            "slots": [
+              {
+                "slot_id": "Slot 1",
+                "max_weight": 2369,
+                "dimensions": [
+                  63,
+                  33,
+                  61
+                ]
+              },
+              {
+                "slot_id": "Slot 2",
+                "max_weight": 1095,
+                "dimensions": [
+                  60,
+                  59,
+                  69
+                ]
+              }
+            ],
+            "near_picking_zone": true,
+            "near_packing_machine": true,
+            "near_outbound_gate": true
+          },
+          {
+            "rack_id": "Rack 3",
+            "slots": [
+              {
+                "slot_id": "Slot 1",
+                "max_weight": 2401,
+                "dimensions": [
+                  68,
+                  54,
+                  61
+                ]
+              },
+              {
+                "slot_id": "Slot 2",
+                "max_weight": 2536,
+                "dimensions": [
+                  48,
+                  43,
+                  38
+                ]
+              },
+              {
+                "slot_id": "Slot 3",
+                "max_weight": 579,
+                "dimensions": [
+                  44,
+                  43,
+                  45
+                ]
+              }
+            ],
+            "near_picking_zone": true,
+            "near_packing_machine": true,
+            "near_outbound_gate": false
+          }
+        ]
+      },
+      "Zone 13": {
+        "racks": [
+          {
+            "rack_id": "Rack 1",
+            "slots": [
+              {
+                "slot_id": "Slot 1",
+                "max_weight": 2257,
+                "dimensions": [
+                  58,
+                  79,
+                  34
+                ]
+              },
+              {
+                "slot_id": "Slot 2",
+                "max_weight": 2778,
+                "dimensions": [
+                  79,
+                  36,
+                  50
+                ]
+              }
+            ],
+            "near_picking_zone": true,
+            "near_packing_machine": true,
+            "near_outbound_gate": true
+          },
+          {
+            "rack_id": "Rack 2",
+            "slots": [
+              {
+                "slot_id": "Slot 1",
+                "max_weight": 1149,
+                "dimensions": [
+                  30,
+                  69,
+                  67
+                ]
+              },
+              {
+                "slot_id": "Slot 2",
+                "max_weight": 1780,
+                "dimensions": [
+                  57,
+                  80,
+                  47
+                ]
+              }
+            ],
+            "near_picking_zone": false,
+            "near_packing_machine": true,
+            "near_outbound_gate": false
+          },
+          {
+            "rack_id": "Rack 3",
+            "slots": [
+              {
+                "slot_id": "Slot 1",
+                "max_weight": 2612,
+                "dimensions": [
+                  33,
+                  30,
+                  37
+                ]
+              },
+              {
+                "slot_id": "Slot 2",
+                "max_weight": 2407,
+                "dimensions": [
+                  76,
+                  51,
+                  34
+                ]
+              },
+              {
+                "slot_id": "Slot 3",
+                "max_weight": 1416,
+                "dimensions": [
+                  41,
+                  61,
+                  58
+                ]
+              }
+            ],
+            "near_picking_zone": false,
+            "near_packing_machine": true,
+            "near_outbound_gate": false
+          }
+        ]
+      },
+      "Zone 14": {
+        "racks": [
+          {
+            "rack_id": "Rack 1",
+            "slots": [
+              {
+                "slot_id": "Slot 1",
+                "max_weight": 1113,
+                "dimensions": [
+                  70,
+                  31,
+                  55
+                ]
+              },
+              {
+                "slot_id": "Slot 2",
+                "max_weight": 1796,
+                "dimensions": [
+                  32,
+                  50,
+                  75
+                ]
+              },
+              {
+                "slot_id": "Slot 3",
+                "max_weight": 1119,
+                "dimensions": [
+                  77,
+                  78,
+                  59
+                ]
+              }
+            ],
+            "near_picking_zone": true,
+            "near_packing_machine": false,
+            "near_outbound_gate": true
+          },
+          {
+            "rack_id": "Rack 2",
+            "slots": [
+              {
+                "slot_id": "Slot 1",
+                "max_weight": 939,
+                "dimensions": [
+                  39,
+                  70,
+                  35
+                ]
+              },
+              {
+                "slot_id": "Slot 2",
+                "max_weight": 961,
+                "dimensions": [
+                  36,
+                  77,
+                  46
+                ]
+              },
+              {
+                "slot_id": "Slot 3",
+                "max_weight": 306,
+                "dimensions": [
+                  67,
+                  66,
+                  74
+                ]
+              }
+            ],
+            "near_picking_zone": false,
+            "near_packing_machine": false,
+            "near_outbound_gate": true
+          },
+          {
+            "rack_id": "Rack 3",
+            "slots": [
+              {
+                "slot_id": "Slot 1",
+                "max_weight": 636,
+                "dimensions": [
+                  68,
+                  80,
+                  50
+                ]
+              },
+              {
+                "slot_id": "Slot 2",
+                "max_weight": 443,
+                "dimensions": [
+                  42,
+                  55,
+                  36
+                ]
+              }
+            ],
+            "near_picking_zone": false,
+            "near_packing_machine": true,
+            "near_outbound_gate": false
+          }
+        ]
+      },
+      "Zone 15": {
+        "racks": [
+          {
+            "rack_id": "Rack 1",
+            "slots": [
+              {
+                "slot_id": "Slot 1",
+                "max_weight": 1066,
+                "dimensions": [
+                  55,
+                  35,
+                  41
+                ]
+              },
+              {
+                "slot_id": "Slot 2",
+                "max_weight": 2782,
+                "dimensions": [
+                  37,
+                  67,
+                  72
+                ]
+              }
+            ],
+            "near_picking_zone": false,
+            "near_packing_machine": true,
+            "near_outbound_gate": true
+          },
+          {
+            "rack_id": "Rack 2",
+            "slots": [
+              {
+                "slot_id": "Slot 1",
+                "max_weight": 399,
+                "dimensions": [
+                  58,
+                  55,
+                  33
+                ]
+              },
+              {
+                "slot_id": "Slot 2",
+                "max_weight": 2583,
+                "dimensions": [
+                  62,
+                  55,
+                  30
+                ]
+              },
+              {
+                "slot_id": "Slot 3",
+                "max_weight": 1267,
+                "dimensions": [
+                  48,
+                  49,
+                  61
+                ]
+              }
+            ],
+            "near_picking_zone": true,
+            "near_packing_machine": false,
+            "near_outbound_gate": false
+          }
+        ]
+      },
+      "Zone 16": {
+        "racks": [
+          {
+            "rack_id": "Rack 1",
+            "slots": [
+              {
+                "slot_id": "Slot 1",
+                "max_weight": 1171,
+                "dimensions": [
+                  57,
+                  40,
+                  43
+                ]
+              },
+              {
+                "slot_id": "Slot 2",
+                "max_weight": 484,
+                "dimensions": [
+                  55,
+                  73,
+                  52
+                ]
+              },
+              {
+                "slot_id": "Slot 3",
+                "max_weight": 1601,
+                "dimensions": [
+                  63,
+                  38,
+                  30
+                ]
+              }
+            ],
+            "near_picking_zone": false,
+            "near_packing_machine": true,
+            "near_outbound_gate": true
+          },
+          {
+            "rack_id": "Rack 2",
+            "slots": [
+              {
+                "slot_id": "Slot 1",
+                "max_weight": 363,
+                "dimensions": [
+                  60,
+                  43,
+                  44
+                ]
+              },
+              {
+                "slot_id": "Slot 2",
+                "max_weight": 693,
+                "dimensions": [
+                  40,
+                  58,
+                  70
+                ]
+              },
+              {
+                "slot_id": "Slot 3",
+                "max_weight": 2811,
+                "dimensions": [
+                  51,
+                  32,
+                  55
+                ]
+              }
+            ],
+            "near_picking_zone": true,
+            "near_packing_machine": false,
+            "near_outbound_gate": false
+          }
+        ]
+      },
+      "Zone 17": {
+        "racks": [
+          {
+            "rack_id": "Rack 1",
+            "slots": [
+              {
+                "slot_id": "Slot 1",
+                "max_weight": 2586,
+                "dimensions": [
+                  38,
+                  55,
+                  80
+                ]
+              },
+              {
+                "slot_id": "Slot 2",
+                "max_weight": 846,
+                "dimensions": [
+                  73,
+                  45,
+                  61
+                ]
+              }
+            ],
+            "near_picking_zone": true,
+            "near_packing_machine": false,
+            "near_outbound_gate": true
+          },
+          {
+            "rack_id": "Rack 2",
+            "slots": [
+              {
+                "slot_id": "Slot 1",
+                "max_weight": 1126,
+                "dimensions": [
+                  36,
+                  65,
+                  61
+                ]
+              },
+              {
+                "slot_id": "Slot 2",
+                "max_weight": 2477,
+                "dimensions": [
+                  77,
+                  70,
+                  54
+                ]
+              },
+              {
+                "slot_id": "Slot 3",
+                "max_weight": 1645,
+                "dimensions": [
+                  58,
+                  36,
+                  64
+                ]
+              }
+            ],
+            "near_picking_zone": false,
+            "near_packing_machine": true,
+            "near_outbound_gate": false
+          },
+          {
+            "rack_id": "Rack 3",
+            "slots": [
+              {
+                "slot_id": "Slot 1",
+                "max_weight": 2959,
+                "dimensions": [
+                  63,
+                  58,
+                  37
+                ]
+              },
+              {
+                "slot_id": "Slot 2",
+                "max_weight": 714,
+                "dimensions": [
+                  31,
+                  77,
+                  37
+                ]
+              }
+            ],
+            "near_picking_zone": true,
+            "near_packing_machine": true,
+            "near_outbound_gate": false
+          },
+          {
+            "rack_id": "Rack 4",
+            "slots": [
+              {
+                "slot_id": "Slot 1",
+                "max_weight": 322,
+                "dimensions": [
+                  78,
+                  54,
+                  39
+                ]
+              },
+              {
+                "slot_id": "Slot 2",
+                "max_weight": 1407,
+                "dimensions": [
+                  74,
+                  43,
+                  33
+                ]
+              },
+              {
+                "slot_id": "Slot 3",
+                "max_weight": 2526,
+                "dimensions": [
+                  70,
+                  36,
+                  76
+                ]
+              }
+            ],
+            "near_picking_zone": true,
+            "near_packing_machine": false,
+            "near_outbound_gate": false
+          }
+        ]
+      },
+      "Zone 18": {
+        "racks": [
+          {
+            "rack_id": "Rack 1",
+            "slots": [
+              {
+                "slot_id": "Slot 1",
+                "max_weight": 2787,
+                "dimensions": [
+                  80,
+                  63,
+                  62
+                ]
+              },
+              {
+                "slot_id": "Slot 2",
+                "max_weight": 751,
+                "dimensions": [
+                  63,
+                  41,
+                  65
+                ]
+              },
+              {
+                "slot_id": "Slot 3",
+                "max_weight": 792,
+                "dimensions": [
+                  44,
+                  44,
+                  51
+                ]
+              }
+            ],
+            "near_picking_zone": true,
+            "near_packing_machine": true,
+            "near_outbound_gate": false
+          },
+          {
+            "rack_id": "Rack 2",
+            "slots": [
+              {
+                "slot_id": "Slot 1",
+                "max_weight": 2209,
+                "dimensions": [
+                  39,
+                  30,
+                  30
+                ]
+              },
+              {
+                "slot_id": "Slot 2",
+                "max_weight": 1550,
+                "dimensions": [
+                  35,
+                  60,
+                  49
+                ]
+              }
+            ],
+            "near_picking_zone": true,
+            "near_packing_machine": false,
+            "near_outbound_gate": false
+          },
+          {
+            "rack_id": "Rack 3",
+            "slots": [
+              {
+                "slot_id": "Slot 1",
+                "max_weight": 1249,
+                "dimensions": [
+                  32,
+                  38,
+                  70
+                ]
+              },
+              {
+                "slot_id": "Slot 2",
+                "max_weight": 463,
+                "dimensions": [
+                  52,
+                  44,
+                  52
+                ]
+              },
+              {
+                "slot_id": "Slot 3",
+                "max_weight": 1886,
+                "dimensions": [
+                  60,
+                  58,
+                  38
+                ]
+              }
+            ],
+            "near_picking_zone": true,
+            "near_packing_machine": true,
+            "near_outbound_gate": true
+          }
+        ]
+      },
+      "Zone 19": {
+        "racks": [
+          {
+            "rack_id": "Rack 1",
+            "slots": [
+              {
+                "slot_id": "Slot 1",
+                "max_weight": 1085,
+                "dimensions": [
+                  63,
+                  76,
+                  41
+                ]
+              },
+              {
+                "slot_id": "Slot 2",
+                "max_weight": 2090,
+                "dimensions": [
+                  51,
+                  30,
+                  32
+                ]
+              },
+              {
+                "slot_id": "Slot 3",
+                "max_weight": 2725,
+                "dimensions": [
+                  75,
+                  41,
+                  55
+                ]
+              }
+            ],
+            "near_picking_zone": true,
+            "near_packing_machine": true,
+            "near_outbound_gate": true
+          },
+          {
+            "rack_id": "Rack 2",
+            "slots": [
+              {
+                "slot_id": "Slot 1",
+                "max_weight": 1860,
+                "dimensions": [
+                  46,
+                  61,
+                  61
+                ]
+              },
+              {
+                "slot_id": "Slot 2",
+                "max_weight": 2054,
+                "dimensions": [
+                  58,
+                  64,
+                  78
+                ]
+              },
+              {
+                "slot_id": "Slot 3",
+                "max_weight": 1937,
+                "dimensions": [
+                  41,
+                  79,
+                  45
+                ]
+              }
+            ],
+            "near_picking_zone": false,
+            "near_packing_machine": false,
+            "near_outbound_gate": true
+          }
+        ]
+      },
+      "Zone 20": {
+        "racks": [
+          {
+            "rack_id": "Rack 1",
+            "slots": [
+              {
+                "slot_id": "Slot 1",
+                "max_weight": 581,
+                "dimensions": [
+                  75,
+                  42,
+                  72
+                ]
+              },
+              {
+                "slot_id": "Slot 2",
+                "max_weight": 2140,
+                "dimensions": [
+                  42,
+                  56,
+                  44
+                ]
+              },
+              {
+                "slot_id": "Slot 3",
+                "max_weight": 2761,
+                "dimensions": [
+                  68,
+                  66,
+                  36
+                ]
+              }
+            ],
+            "near_picking_zone": false,
+            "near_packing_machine": true,
+            "near_outbound_gate": false
+          },
+          {
+            "rack_id": "Rack 2",
+            "slots": [
+              {
+                "slot_id": "Slot 1",
+                "max_weight": 1032,
+                "dimensions": [
+                  52,
+                  58,
+                  55
+                ]
+              },
+              {
+                "slot_id": "Slot 2",
+                "max_weight": 793,
+                "dimensions": [
+                  62,
+                  31,
+                  48
+                ]
+              }
+            ],
+            "near_picking_zone": false,
+            "near_packing_machine": true,
+            "near_outbound_gate": true
+          }
+        ]
+      }
+    }
+  }
